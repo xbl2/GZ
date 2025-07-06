@@ -1,0 +1,33 @@
+# === IBKR 主域名 ===
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-KEYWORD,ibllc
+DOMAIN-SUFFIX,ibg.com
+DOMAIN-SUFFIX,twsapi.com
+
+# === 行情和交易服务器（网关） ===
+DOMAIN,gateway.interactivebrokers.com
+DOMAIN,gw1.ibllc.com
+DOMAIN,gw2.ibllc.com
+DOMAIN,ndcdyn.interactivebrokers.com
+DOMAIN,amstdp.ibllc.com
+
+# === 登录认证相关 ===
+DOMAIN,auth.ibkr.com
+DOMAIN,secure.ibkr.com
+DOMAIN,accounts.interactivebrokers.com
+DOMAIN,api.ibkr.com
+
+# === 客户门户和网页端 ===
+DOMAIN,portal.interactivebrokers.com
+DOMAIN,gdcdyn.interactivebrokers.com
+
+# === 资金托管及证书验证（部分账户相关） ===
+DOMAIN-SUFFIX,bac-assets.com
+DOMAIN-SUFFIX,bankofamerica.com
+
+# === IBKR CDN 或嵌套服务（某些国家使用 Cloudflare） ===
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
