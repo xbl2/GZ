@@ -15,7 +15,7 @@ IP-CIDR,63.251.124.0/24,no-resolve
 DOMAIN-KEYWORD,usmobile
 DOMAIN-KEYWORD,analytics-services-att
 DOMAIN-KEYWORD,_xmpp._tcp.tktn
-DOMAIN-KEYWORD,beacon.taboola
+DOMAIN-KEYWORD,taboola
 DOMAIN-KEYWORD,ext.track.tappx
 DOMAIN-KEYWORD,
 DOMAIN-KEYWORD,
