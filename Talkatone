@@ -13,7 +13,7 @@ IP-CIDR,69.46.75.0/24,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve
 IP-CIDR,63.251.124.0/24,no-resolve
 DOMAIN-KEYWORD,usmobile
-DOMAIN-KEYWORD,analytics-services-att
+DOMAIN-KEYWORD,analytics-services
 DOMAIN-KEYWORD,_xmpp._tcp.tktn
 DOMAIN-KEYWORD,taboola
 DOMAIN-KEYWORD,ext.track.tappx
