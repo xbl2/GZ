@@ -1,0 +1,5 @@
+# Bitfinex 规则集
+- DOMAIN-SUFFIX,bitfinex.com
+- DOMAIN-SUFFIX,bfxapi.com
+- DOMAIN-SUFFIX,bitfinex.ninja
+- DOMAIN-KEYWORD,bitfinex
